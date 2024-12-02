@@ -7,7 +7,7 @@ new Chart(
             datasets: [
                 {
                     label: 'Votes',
-                    data: [12,19,3],
+                    data: [33,333,3],
                     backgroundColor: ['red','blue','yellow'],
                     borderColor: ['black']
                 }
