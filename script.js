@@ -6,8 +6,8 @@ new Chart(ctx, {
         datasets: [
             {
                 label: 'Votes',
-                data: [373, 333, 353],
-                backgroundColor: ['red', 'blue', 'yellow'],
+                data: [373, 333, 353, 363],
+                backgroundColor: ['red', 'blue', 'yellow', 'orange'],
                 borderColor: ['black'],
                 borderWidth: 1
             }
